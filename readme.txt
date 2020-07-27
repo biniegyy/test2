@@ -2,8 +2,5 @@ Git is a version control system.
 Git is free software.
 加了一行
 第二次修改
-<<<<<<< HEAD
 master添加
-=======
 分支添加
->>>>>>> featurel
